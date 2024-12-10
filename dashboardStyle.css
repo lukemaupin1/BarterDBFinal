@@ -1,0 +1,25 @@
+.tradeBoard {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+.tradeBoard th, .tradeBoard td {
+    border: 1px solid var(--paynes-gray);
+    padding: 8px;
+    text-align: center;
+}
+
+.tradeBoard th {
+    background-color: var(--ash-gray);
+    color: var(--black);
+}
+
+.tradeBoard td {
+    background-color: var(--ash-gray);
+    color: var(--black);
+}
+
+.welcomeText {
+	text-align: center;
+}
